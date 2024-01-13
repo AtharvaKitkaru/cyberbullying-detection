@@ -1,4 +1,4 @@
-# ML-IA2
+# CyberBullying Detection
 ### **NEED FOR CYBER BULLYING DETECTION**
 
 Cyber bullying has been increasing at an unfathomable rate with the rise of the internet and the increasing radius of the social networks. This increasing amount of cyber bullying serves to be a threat to many people who are an active part of these social networks, especially the people using the social media websites for posting information and communication. These crimes have affected many people and have also resulted in suicides. Thus we need an efficient system to detect these
